@@ -1,0 +1,12 @@
+{
+  "name": "personal-page",
+  "version": "1.0.0",
+  "description": "Personal page with animated background",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
